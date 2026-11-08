@@ -4,63 +4,54 @@
 
 We bring design thinking and engineering together to turn ideas into clear, useful digital experiences.
 
-[Explore the repository](https://github.com/astrava-studio/astrava-portfolio)
-
----
-
 ## What we work on
 
-### Websites & digital experiences
-Responsive business websites, landing pages, portfolios, and web experiences designed around the people who use them.
+- **Websites & digital experiences:** responsive business websites, landing pages, portfolios, and web experiences.
+- **Business software:** practical tools for everyday business workflows, including inventory and operations.
+- **UI/UX & product design:** clear information architecture, thoughtful interfaces, and usable product flows.
 
-### Business software
-Purpose-built tools that help businesses manage everyday work—from inventory and operations to customer-facing workflows.
-
-### UI/UX & product design
-Clear information architecture, thoughtful interfaces, and usable flows that make digital products easier to understand and use.
-
-We take on work that fits our capabilities and scope each engagement around the actual needs of the business.
+We take on work that fits our capabilities and agree on scope before starting.
 
 ## Selected work
 
-We are building a focused portfolio of practical projects that demonstrate our approach to design and engineering.
+Our initial studio demonstrations are:
 
-| Project | Focus |
-| --- | --- |
-| Inventory Management System | Product records, stock movement, and inventory visibility |
-| Restaurant Menu & Management System | Digital menus and day-to-day restaurant workflows |
+- **Inventory Management System** — product records, stock movement, and inventory visibility.
+- **Restaurant Menu & Management System** — digital menus and day-to-day restaurant workflows.
 
-These are studio demonstration projects, not client engagements. Project links and availability will be added when each project is ready to share.
+These are studio demonstration projects, not client engagements. We will add public project links when they are ready to share.
 
 ## How we work
 
-1. **Understand** — Learn about the business, its users, and the problem to solve.
-2. **Shape** — Agree on scope, priorities, and a practical approach.
-3. **Design** — Plan the experience and interface around real workflows.
-4. **Build** — Develop, test, and refine the solution.
-5. **Deliver** — Launch with clear handover and next steps.
+1. Understand the business and the problem.
+2. Agree on scope and priorities.
+3. Design the experience and workflows.
+4. Build, test, and refine the solution.
+5. Deliver with a clear handover.
 
 ## Start a conversation
 
-Have a website, product idea, or business workflow you'd like to improve?
+Have a website, product idea, or business workflow you'd like to improve? Tell us what you're trying to achieve and we'll discuss a sensible next step.
 
-**Tell us what you're trying to achieve.** We'll discuss the problem, determine whether we're the right fit, and agree on a sensible next step.
+Contact details and the studio website will be added once configured.
 
-Contact details and the studio website will be published here once configured.
+## This repository
 
----
-
-## About this repository
-
-This repository contains the source code for the ASTRAVA studio website.
-
-Project documentation and contributor guidance:
+This repository contains the ASTRAVA studio website.
 
 - [Project brief](docs/PROJECT_BRIEF.md)
 - [Development workflow](docs/DEVELOPMENT_WORKFLOW.md)
-- [Coding-agent instructions](AGENTS.md)
+- [Coding-agent guidance](AGENTS.md)
 
-The website's implementation stack and setup instructions will be documented once the application scaffold is established.
+### Starting work with an AI coding agent
+
+1. Clone this repository and open its root folder in your editor.
+2. Ask your coding agent to inspect the repository before changing anything.
+3. The agent should read `AGENTS.md` and the relevant files in `docs/`.
+4. Use the skills already installed in your agent environment when relevant. Do not copy or install duplicate skill packs into this repository.
+5. Confirm the existing stack and scripts before scaffolding or installing dependencies.
+
+Do not claim tests passed unless they were actually run.
 
 ---
 
