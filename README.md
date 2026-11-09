@@ -1,62 +1,35 @@
-# ASTRAVA — Digital Experiences, Thoughtfully Built.
+# ASTRAVA Portfolio
 
-**ASTRAVA is an independent digital studio focused on designing and building websites, digital products, and practical software for businesses.**
+The public-facing website for **ASTRAVA**, an independent digital studio focused on websites, digital products, and practical business software.
 
-We bring design thinking and engineering together to turn ideas into clear, useful digital experiences.
+## Purpose
 
-## What we work on
+Present ASTRAVA's identity, capabilities, selected work, and working approach in one clear, professional digital experience.
 
-- **Websites & digital experiences:** responsive business websites, landing pages, portfolios, and web experiences.
-- **Business software:** practical tools for everyday business workflows, including inventory and operations.
-- **UI/UX & product design:** clear information architecture, thoughtful interfaces, and usable product flows.
+## Website scope
 
-We take on work that fits our capabilities and agree on scope before starting.
+The website is intended to include:
 
-## Selected work
+- Studio introduction and positioning
+- Services and areas of focus
+- Selected projects and demonstrations
+- About the studio and its working approach
+- Contact information and a functional enquiry path
 
-Our initial studio demonstrations are:
+## Design direction
 
-- **Inventory Management System** — product records, stock movement, and inventory visibility.
-- **Restaurant Menu & Management System** — digital menus and day-to-day restaurant workflows.
+Premium, minimal, and modern creative-tech. The current visual direction uses charcoal, warm white, and electric blue, supported by strong typography, clear hierarchy, deliberate spacing, responsive layouts, and restrained motion.
 
-These are studio demonstration projects, not client engagements. We will add public project links when they are ready to share.
+## Project status
 
-## How we work
+**Initial setup and planning.** The website implementation and technology stack have not yet been established. Project requirements and decisions are maintained in the documentation.
 
-1. Understand the business and the problem.
-2. Agree on scope and priorities.
-3. Design the experience and workflows.
-4. Build, test, and refine the solution.
-5. Deliver with a clear handover.
-
-## Start a conversation
-
-Have a website, product idea, or business workflow you'd like to improve? Tell us what you're trying to achieve and we'll discuss a sensible next step.
-
-Contact details and the studio website will be added once configured.
-
-## This repository
-
-This repository contains the ASTRAVA studio website.
+## Related documentation
 
 - [Project brief](docs/PROJECT_BRIEF.md)
-- [Development workflow](docs/DEVELOPMENT_WORKFLOW.md)
 - [Project context](docs/PROJECT_CONTEXT.md)
-- [Contributor onboarding](docs/ONBOARDING.md)
-- [Shared ASTRAVA working standard](docs/ASTRAVA_STUDIO_STANDARD.md)
-- [Coding-agent guidance](AGENTS.md)
-
-### Starting work with an AI coding agent
-
-1. Clone this repository and open its root folder in your editor.
-2. Follow [the onboarding guide](docs/ONBOARDING.md).
-3. Ask your coding agent to inspect the repository before changing anything.
-4. The agent should read AGENTS.md and the relevant files in docs/.
-5. Use the skills already installed in your agent environment when relevant. Do not copy or install duplicate skill packs into this repository.
-6. Confirm the existing stack and scripts before scaffolding or installing dependencies.
-
-Do not claim tests passed unless they were actually run.
+- [Development workflow](docs/DEVELOPMENT_WORKFLOW.md)
 
 ---
 
-*ASTRAVA — Ideas into digital experiences.*
+*ASTRAVA — Digital Experiences, Thoughtfully Built.*
