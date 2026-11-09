@@ -41,15 +41,19 @@ This repository contains the ASTRAVA studio website.
 
 - [Project brief](docs/PROJECT_BRIEF.md)
 - [Development workflow](docs/DEVELOPMENT_WORKFLOW.md)
+- [Project context](docs/PROJECT_CONTEXT.md)
+- [Contributor onboarding](docs/ONBOARDING.md)
+- [Shared ASTRAVA working standard](docs/ASTRAVA_STUDIO_STANDARD.md)
 - [Coding-agent guidance](AGENTS.md)
 
 ### Starting work with an AI coding agent
 
 1. Clone this repository and open its root folder in your editor.
-2. Ask your coding agent to inspect the repository before changing anything.
-3. The agent should read `AGENTS.md` and the relevant files in `docs/`.
-4. Use the skills already installed in your agent environment when relevant. Do not copy or install duplicate skill packs into this repository.
-5. Confirm the existing stack and scripts before scaffolding or installing dependencies.
+2. Follow [the onboarding guide](docs/ONBOARDING.md).
+3. Ask your coding agent to inspect the repository before changing anything.
+4. The agent should read AGENTS.md and the relevant files in docs/.
+5. Use the skills already installed in your agent environment when relevant. Do not copy or install duplicate skill packs into this repository.
+6. Confirm the existing stack and scripts before scaffolding or installing dependencies.
 
 Do not claim tests passed unless they were actually run.
 
